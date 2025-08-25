@@ -17,4 +17,4 @@
 - **Project Preferences**: I would like to lean more on my Selenium knowledge and improve it, but I do not have a project in mind
 
 ## Fun Fact
-- **Something Interesting About You**: I started playing with a Raspeberry Pi 4 recently and I have set up a small environment where I try to test some automation ideas. I like putting it together and installing the OS and plaing around with the ssh and vnc as a remote GUI
+- **Something Interesting About You**: This is my second Undergrad, my first one was in Humanities, Illustration and Design to be specific
