@@ -1,2 +1,2 @@
-# softeware-engineering-i
+# software-engineering-I
 CS 2450 Software Engineering
